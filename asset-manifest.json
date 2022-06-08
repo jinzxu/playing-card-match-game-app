@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/playing-card-match-game-app/static/css/main.626914de.chunk.css",
+    "main.js": "/playing-card-match-game-app/static/js/main.bb51aa57.chunk.js",
+    "main.js.map": "/playing-card-match-game-app/static/js/main.bb51aa57.chunk.js.map",
+    "runtime-main.js": "/playing-card-match-game-app/static/js/runtime-main.4b3998cb.js",
+    "runtime-main.js.map": "/playing-card-match-game-app/static/js/runtime-main.4b3998cb.js.map",
+    "static/js/2.4bd328cf.chunk.js": "/playing-card-match-game-app/static/js/2.4bd328cf.chunk.js",
+    "static/js/2.4bd328cf.chunk.js.map": "/playing-card-match-game-app/static/js/2.4bd328cf.chunk.js.map",
+    "index.html": "/playing-card-match-game-app/index.html",
+    "static/css/main.626914de.chunk.css.map": "/playing-card-match-game-app/static/css/main.626914de.chunk.css.map",
+    "static/js/2.4bd328cf.chunk.js.LICENSE.txt": "/playing-card-match-game-app/static/js/2.4bd328cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b3998cb.js",
+    "static/js/2.4bd328cf.chunk.js",
+    "static/css/main.626914de.chunk.css",
+    "static/js/main.bb51aa57.chunk.js"
+  ]
+}
